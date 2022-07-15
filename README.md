@@ -1,8 +1,8 @@
 # Hi there 👋
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 😄 Pronouns: She/Her
-- 💥 Fun fact: Mothman Enthusiast
+- 🌺 Pronouns: She/Her
+- 👀 Fun fact: Mothman Enthusiast
 - 🎓 October ‘22 grad
 
 My name is Niki, I'm a tech enthusiast and student at [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
