@@ -1,6 +1,7 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m learning Full Stack Web Development
+- 🧠 Currently learning React
 - 🎨 Front-End and Design Proficient
 - 🌺 Pronouns: She/Her
 - 👀 Fun fact: Mothman Enthusiast
