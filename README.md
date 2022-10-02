@@ -5,6 +5,7 @@
 - 🎨 Front-End Proficient
 - 🎓 October ‘22 grad
 - 🖥️ I've been working on [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
+- 🌎 Always Learning
 
 My name is Niki, I'm a tech enthusiast and student at [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
 
