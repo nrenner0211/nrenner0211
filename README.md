@@ -3,7 +3,7 @@
 - 🌎 Always Learning
 - 🎨 Front-End Proficient
 - 🌱 Actively searching for Full-Stack Developer roles
-- 🧠 Currently interested in learning MERN Stack, Web 3.0, and Gimp & Inkscape
+- 🧠 Currently learning MERN Stack, Web 3.0, and Gimp & Inkscape
 - 🖥️ I've been working on [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
 
 My name is Niki, I'm a tech enthusiast and graduate from [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
