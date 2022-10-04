@@ -11,6 +11,6 @@ My name is Niki, I'm a tech enthusiast and graduate from [UNC-Charlotte Coding B
 [![Linkedin Badge](https://img.shields.io/badge/-nrenner0211-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
 [![Gmail Badge](https://img.shields.io/badge/-nrenner0211@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrenner0211@gmail.com)](mailto:nrenner0211@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nrenner0211)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=tokyonight" alt="mystreak"/>
