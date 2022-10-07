@@ -4,7 +4,7 @@
 - 🎨 Front-End proficient
 - 🌱 Actively searching for Full-Stack Developer roles
 - 🧠 Currently learning MERN Stack & graphic design
-- 🖥️ I've been working on [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
+- 🖥️ I've been working on [elect.io](cryptic-temple-27245.herokuapp.com/)
 
 My name is Niki, I'm a tech enthusiast and graduate from [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
 
