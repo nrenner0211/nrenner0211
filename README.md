@@ -8,8 +8,9 @@
 
 My name is Niki, I'm a tech enthusiast and graduate from [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nrenner0211-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
-[![Gmail Badge](https://img.shields.io/badge/-nicolette.rachelle11-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolette.rachelle11@gmail.com)](mailto:nrenner0211@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
+[LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/nrenner0211/)
+[![Gmail Badge](https://img.shields.io/badge/nicolette.rachelle11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
