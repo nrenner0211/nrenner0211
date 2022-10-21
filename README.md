@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - 🌎 Always learning
-- 🎨 I make things pretty
+- 🎨 I like making things pretty
 - 🌱 Actively searching for Full-Stack Developer roles
-- 🧠 Currently learning Sass & AWS
+- 🧠 Currently learning Python & AWS
 - 🖥️ I've been working on [elect.io](https://cryptic-temple-27245.herokuapp.com/)
 
 My name is Niki, I'm a tech enthusiast and graduate from [UNC-Charlotte Coding Bootcamp](https://bootcamp.charlotte.edu/coding/). Always open to learning something new and collaborating on projects. Let's connect:
