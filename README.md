@@ -5,7 +5,7 @@
 - 🌱 Actively searching for Full-Stack Developer roles
 - 🤝 Open to collaborating & networking
 - 🖥️ I've been working on [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
-- 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
