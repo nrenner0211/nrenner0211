@@ -1,7 +1,7 @@
 # Hi, I'm Niki 👋
 
 
-- 🎨 HTML5, CSS, Node.js, React, Sass
+- 🎨 HTML5, CSS, JavaScript, Node.js, React, Sass
 - 🌱 Actively searching for Full-Stack Developer roles
 - 🖥️ I've been working on [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
 - 🫱🏻‍🫲🏾 Open to networking, collaborating, & constructive feedback
