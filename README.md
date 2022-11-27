@@ -2,9 +2,9 @@
 
 ## About Me...
 
-🎨 I LOVE REACT!
+💛 Full Stack JavaScript Developer
 
-🌱 I'm seeking my first job in `web development`
+🌱 I'm a bootcamp grad seeking my first job in `web development`
 
 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
 
