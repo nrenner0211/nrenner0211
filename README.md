@@ -10,9 +10,9 @@
 
 - 🫱🏻‍🫲🏾 Open to networking, feedback, and contributing to open-source
 
-## Stats 🔥
+## 🔥 Stats 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&layout=compact)](https://github.com/nrenner0211/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=tokyonight" alt="mystreak"/>
 
