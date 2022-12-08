@@ -8,9 +8,11 @@
 
 - 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
 
+- 📧 You can reach me at `nrenner0211@gmail.com`
+
 ## 🔥 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&layout=compact&style=transparent)](https://github.com/nrenner0211/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&layout=compact&style=tokyonight)](https://github.com/nrenner0211/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=tokyonight" alt="mystreak"/>
 
