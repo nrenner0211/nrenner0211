@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=tokyonight" alt="mystreak"/>
 
-## Contact Me
+### Let's Chat, Network, & Collaborate!
 
 ![Gmail Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
