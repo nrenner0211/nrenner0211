@@ -2,17 +2,17 @@
 
 ## About Me...
 
-💛 Full Stack JavaScript Developer
+- 💛 Full Stack JavaScript Developer
 
-🌱 I'm a bootcamp grad seeking my first job in `web development`
+- 🌱 I'm a bootcamp grad seeking my first job in `web development`
 
-🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
+- 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
 
-🫱🏻‍🫲🏾 Open to networking, feedback, and contributing to open-source
+- 🫱🏻‍🫲🏾 Open to networking, feedback, and contributing to open-source
 
-## Stats
+## Stats 🔥
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=tokyonight" alt="mystreak"/>
 
