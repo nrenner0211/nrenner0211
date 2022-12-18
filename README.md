@@ -1,16 +1,14 @@
 # Hi, I'm Niki 👋
 
-## About Me...
+## 📖 About Me
 
-- 💛 Full Stack Web Developer
+- Full Stack Web Developer
 
-- 🌱 I'm a bootcamp grad seeking my first job in `web development`
+- I'm a bootcamp grad seeking my first job in `web development`
 
-- 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/my-app/)
+- I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/my-app/)
 
-- 📧 You can reach me at `nrenner0211@gmail.com`
-
-## Favorite Technologies
+## 💛 Favorites
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -26,12 +24,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=nightowl" alt="mystreak"/>
 
-## 🫱🏻‍🫲🏾 Let's Chat, Network, & Collaborate!
+## 🫱🏻‍🫲🏾 Let's Chat, Network, & Collaborate
 
-- E-mail: ![Gmail Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Gmail Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
+- [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
 
-- LeetCode: [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
+- [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
 
-### Happy coding!
+### 🖥️ Happy coding!
