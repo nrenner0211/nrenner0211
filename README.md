@@ -6,7 +6,7 @@
 
 - 🌱 I'm a bootcamp grad seeking my first job in `web development`
 
-- 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/super-react-portfolio/)
+- 🖥️ I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/my-app/)
 
 - 📧 You can reach me at `nrenner0211@gmail.com`
 
