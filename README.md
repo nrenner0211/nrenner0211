@@ -6,7 +6,7 @@
 
 - I'm a bootcamp grad seeking my first job in `web development`
 
-- I've been working on building new projects to add to my [Portfolio](https://nrenner0211.github.io/my-app/)
+- I've been working on building new projects to add to my [Portfolio](https://nrennercodes.com/)
 
 ## 💛 Favorites
 
@@ -26,7 +26,7 @@
 
 ## 🫱🏻‍🫲🏾 Let's Chat, Network, & Collaborate
 
-- ![Gmail Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Email Badge](https://img.shields.io/badge/nrenner@nrennercodes.com-D14836?style=for-the-badge&logo=email&logoColor=white)
 
 - [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
 
