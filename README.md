@@ -26,7 +26,7 @@
 
 ## 🫱🏻‍🫲🏾 Let's Chat, Network, & Collaborate
 
-- ![Email Badge](https://img.shields.io/badge/nrenner@nrennercodes.com-D14836?style=for-the-badge&logo=email&logoColor=white)
+- ![Email Badge](https://img.shields.io/badge/nrenner@nrennercodes.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - [![Linkedin Badge](https://img.shields.io/badge/nrenner0211-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
 
