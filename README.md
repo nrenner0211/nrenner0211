@@ -6,7 +6,7 @@
 
 - I'm a bootcamp grad seeking my first job in `web development`
 
-- I like AI [Codex](https://codex-ai-lovat.vercel.app/)
+- Ask [Codex](https://codex-ai-lovat.vercel.app/) a question 
 
 - I've been working on building new projects to add to my [Portfolio](https://nrennercodes.com/)
 
@@ -21,8 +21,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## 🔥 Stats 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211)](https://github.com/nrenner0211/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=nightowl" alt="mystreak"/>
 
