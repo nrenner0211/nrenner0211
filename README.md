@@ -6,6 +6,8 @@
 
 - I'm a bootcamp grad seeking my first job in `web development`
 
+- I like AI [Codex](https://codex-ai-lovat.vercel.app/)
+
 - I've been working on building new projects to add to my [Portfolio](https://nrennercodes.com/)
 
 ## 💛 Favorites
