@@ -22,6 +22,8 @@
 
 ## 🔥 Stats 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ovi" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=nightowl" alt="mystreak"/>
 
 ## 🫱🏻‍🫲🏾 Let's Chat, Network, & Collaborate
