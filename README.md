@@ -4,7 +4,7 @@
 
 - I'm a bootcamp grad seeking my first job in `web development` 
 
-- I like creating things and putting them on the internet
+- I like making stuff and putting it on the internet
 
 - I've been working on building new projects to add to my [Portfolio](https://nrennercodes.com/)
 
