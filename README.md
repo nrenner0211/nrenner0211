@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-- I'm an aspiring full stack dev
+- Aspiring full stack dev
 
 - I'm working on contributing to open source and learning new front-end frameworks
 
