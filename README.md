@@ -2,11 +2,11 @@
 
 ## 📖 About Me
 
-- Aspiring full stack dev
+- Frontend developer working my way to full stack
 
 - I'm working on contributing to open source and learning new front-end frameworks
 
-- Check out my [website](https://nrennercodes.com/)!
+- Check out my [website](https://nrennercodes.com/)
 
 ## 🔥 Stats 
 
