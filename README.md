@@ -4,7 +4,9 @@
 
 - Frontend developer working my way to full stack
 
-- I'm working on contributing to open source and learning new front-end frameworks
+- I'm learning `Next.js` && `Tailwind`
+
+- October '22 bootcamp grad
 
 - Check out my [website](https://nrennercodes.com/)
 
