@@ -1,10 +1,10 @@
-# Hi, I'm Niki!
+# Hi, I'm Niki 👋 
 
 ## About Me
 
-👋 I graduated a Full Stack Development Bootcamp in October '22. I learned HTML, CSS, and JavaScript foundations as well as best practices for creating a website.
+I graduated a Full Stack Development Bootcamp in October '22. I learned HTML, CSS, and JavaScript foundations as well as best practices for creating a website.
   
-## Stats 
+## Stats
 
 <a href=""> 
   <img align="top center" justify="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrenner0211&theme=react&line_height=40" alt="languages"/>
