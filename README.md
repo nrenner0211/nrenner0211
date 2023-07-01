@@ -2,7 +2,8 @@
 
 ### About Me
 
-> - A steel worker with a coding habit 👩🏻‍🏭💻
+> - Web Developer 💻
+> - A steel worker with a coding habit 👩🏻‍🏭
 > - Bootcamp graduate 🎓
 
 ### Contact Me
