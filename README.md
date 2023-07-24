@@ -2,11 +2,12 @@
 
 ### About Me
 
-> - Web Developer 💻
-> - A steel worker with a coding habit 👩🏻‍🏭
-> - Bootcamp graduate 🎓
+> - Early career Web Developer 💻
+> - Full Stack (MERN) bootcamp graduate 🎓
+> - Seeking experience via volunteering & contributing to open source
+> - Have a project in mind? Contact me!
 
-### Contact Me
+### Contact
 
 > - [Portfolio](https://nrennercodes.com)
 > - [Resume](https://docs.google.com/document/d/1DcumNcxWQ4piU0pmyhQcVcIc5guyQ-cl5WpNBM5FcEw/edit?usp=sharing)
@@ -21,5 +22,3 @@
 >  <img align="top center" justify="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrenner0211&theme=react&line_height=40" alt="languages"/>
 >  <img align-"top center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=react" alt="mystreak"/>
 ></a>
-
-### Happy Coding!
