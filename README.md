@@ -2,10 +2,9 @@
 
 ## About
 
-- Early career Web Developer 💻
-- 2U Full Stack (MERN) bootcamp graduate 🎓
+- Web Developer & Tech Support 💻
+- Full Stack (MERN) bootcamp graduate 🎓
 - Seeking experience via volunteering & contributing to open source
-- Have a project in mind? Contact me!
 
 ### Links
 
@@ -17,8 +16,8 @@
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
 
 ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=react&layout=donut)](https://github.com/nrenner0211/github-readme-stats)
 
-><a href=""> 
->  <img align="top center" justify="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrenner0211&theme=react&line_height=40" alt="languages"/>
->  <img align-"top center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=react" alt="mystreak"/>
-></a>
+<a href=""> 
+  <img align-"top center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=react" alt="mystreak"/>
+</a>
