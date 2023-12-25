@@ -4,7 +4,7 @@
 
 ### Links
 
-- [Portfolio](https://nrennercodes.com)
+- [Website](https://nrennercodes.com)
 - [Resume](https://docs.google.com/document/d/1DcumNcxWQ4piU0pmyhQcVcIc5guyQ-cl5WpNBM5FcEw/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/nicolette-renner/)
 
