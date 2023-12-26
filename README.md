@@ -6,9 +6,9 @@ Free Palestine 🍉
 
 ### My Links
 
-- [Website](https://nrennercodes.com)
-- [Resume](https://docs.google.com/document/d/1DcumNcxWQ4piU0pmyhQcVcIc5guyQ-cl5WpNBM5FcEw/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/nicolette-renner/)
+- [Resume](https://docs.google.com/document/d/1DcumNcxWQ4piU0pmyhQcVcIc5guyQ-cl5WpNBM5FcEw/edit?usp=sharing)
+- [Website](https://nixwebdev.com) 🚧 UNDER CONSTRUCTION 🚧
 
 ![Email Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
