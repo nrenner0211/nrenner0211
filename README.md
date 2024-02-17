@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Self-taught developer, freelancer, PC gamer, big nerd basically
+Persistent self-taught developer, freelancer, PC gamer, big nerd basically
 
 ### My Links
 
