@@ -2,13 +2,14 @@
 
 ## About Me
 
-Developer, freelancer, PC gamer, big nerd
+Developer, freelancer, PC gamer, dog mom
 
 ### My Links
 
 - [LinkedIn](https://www.linkedin.com/in/nicolette-renner/)
 - [Website](https://nixwebdev.com)
-- [Resume](https://docs.google.com/document/d/1DcumNcxWQ4piU0pmyhQcVcIc5guyQ-cl5WpNBM5FcEw/edit?usp=sharing)
+- [Instagram](https://www.instagram.com/nixcreativecoding/)
+- [Youtube Channel](https://www.youtube.com/channel/UCLDDGq_d7Sx4LEF0EO4Pqmw)
 - [Call for a CEASEFIRE NOW!](https://ceasefiretoday.com/) 🍉
 
 ![Email Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
