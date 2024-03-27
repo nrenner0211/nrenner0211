@@ -1,10 +1,10 @@
 # Hi, I'm Niki 👋 
 
-## About Me
+### About Me
 Developer, freelancer, PC gamer, dog mom
 
 ### My Links
-- [Website](https://nixwebdev.com)
+- [Visit Website](https://nixwebdev.com)
 - [Call for a CEASEFIRE NOW!](https://ceasefiretoday.com/) 🍉
 
 ### Socials
