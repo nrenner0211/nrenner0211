@@ -5,7 +5,7 @@ Developer, freelancer, PC gamer, dog mom
 
 ### My Links
 - [Visit Website](https://nixwebdev.com)
-- [Call for a CEASEFIRE NOW!](https://ceasefiretoday.com/) 🍉
+- [Free Palestine](https://ceasefiretoday.com/) 🍉
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/nicolette-renner/)
