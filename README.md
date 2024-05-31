@@ -1,20 +1,12 @@
 # Hi, I'm Niki 👋 
 
-### About Me
-Developer, freelancer, PC gamer, dog mom
+## About Me
+Self-taught developer, freelancer, PC gamer, and dog mom
 
-### My Links
 - [Visit Website](https://nixwebdev.com)
-- [Free Palestine](https://ceasefiretoday.com/) 🍉
+- [Use your voice to help Palestine](https://ceasefiretoday.com/) 🍉
 
-### Socials
-- [LinkedIn](https://www.linkedin.com/in/nicolette-renner/)
-- [Instagram](https://www.instagram.com/nixcreativecoding/)
-
-![Email Badge](https://img.shields.io/badge/nrenner0211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nrenner0211/)](https://www.leetcode.com/nrenner0211/)
-
-### My Stats
+## Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=react&layout=donut)](https://github.com/nrenner0211/github-readme-stats)
 
 <a href=""> 
