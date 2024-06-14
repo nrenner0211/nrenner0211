@@ -1,7 +1,7 @@
 # Hi, I'm Niki 👋 
 
 ## About Me
-A gal of many sidequests: self-taught developer, freelancer, PC gamer, avid gardener, and doting dog mom. 🌱🎮🐶
+A gal of many sidequests: self-taught developer, freelancer, PC gamer, avid gardener, and doting dog mom 🌱🎮🐶
 
 - [Visit Website](https://nixwebdev.com)
 - [Use your voice to help Palestine](https://ceasefiretoday.com/) 🍉
