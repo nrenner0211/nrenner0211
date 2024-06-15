@@ -6,7 +6,7 @@ A gal of many sidequests: self-taught developer, freelancer, PC gamer, avid gard
 - [Visit Website](https://nixwebdev.com)
 - [Use your voice to help Palestine](https://ceasefiretoday.com/) 🍉
 
-## Stats 🔥
+##3 Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=react&layout=donut)](https://github.com/nrenner0211/github-readme-stats)
 
 <a href=""> 
