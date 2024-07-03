@@ -4,7 +4,7 @@
 A gal of many sidequests: developer, freelancer, PC gamer, avid gardener, and doting dog mom 🌱👩🏻‍💻🐶
 
 - [Visit Website](https://nixwebdev.com)
-- [Use your voice to help Palestine](https://ceasefiretoday.com/) 🍉
+- [Digital actions you can take to help Palestine](https://ceasefiretoday.com/) 🍉
 
 ### Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=react&layout=donut)](https://github.com/nrenner0211/github-readme-stats)
