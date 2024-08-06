@@ -1,7 +1,7 @@
 # Hi, I'm Niki 👋 
 
 ## About Me
-👻
+👩🏻‍💻
 
 - [Visit Website](https://nixwebdev.com)
 - [Digital actions for peace](https://ceasefiretoday.com/) 🕊️
