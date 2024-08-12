@@ -1,7 +1,7 @@
 # Hi, I'm Niki 👋 
 
 ## About Me
-IT & Web Dev student exploring tech and social media strategy. Let’s connect and create together! 👩🏻‍💻✨ 
+IT & Web Dev student exploring tech and digital marketing. Let’s connect and create together! 👩🏻‍💻✨ 
 
 - [Visit Website](https://nixwebdev.com)
 - [Digital actions for peace](https://ceasefiretoday.com/) 🕊️
