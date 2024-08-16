@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Developer & Digital Creator</h3>
 
 <p align="center">IT & Web Dev student exploring freelancing, tech, and digital marketing👩🏻‍💻✨ 
-<p align="center">Fun Facts: Dog Mom, Gamer, Gardener, Traveler, Foodie</p>
+<p align="center">Fun Facts: Dog Mom, Gamer, Gardener, Traveler</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nrenner0211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
