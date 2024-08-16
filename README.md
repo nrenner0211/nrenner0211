@@ -5,8 +5,8 @@
 
 <h3 align="center">Passionate Developer & Digital Creator</h3>
 
-<p align="center">IT & Web Dev student exploring freelancing, tech, and digital marketing👩🏻‍💻✨ 
-<p align="center">Fun Facts: Dog Mom, Gamer, Gardener, Traveler</p>
+<p align="center">IT & Web Dev student exploring freelancing, tech, and digital marketing👩🏻‍💻✨ </p>
+<p align="center">Fun Facts: Dog mom, gamer, gardener, traveler </p>
 
 <br>
 
@@ -14,7 +14,8 @@
 
 <h3 align="center">I 💖 Networking! Let's Connect:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nicolette-renner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nicolette's LinkedIn" width="7%" /></a>
+<a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://wa.me/16814431530" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 </p>
 
 <div align="center">
