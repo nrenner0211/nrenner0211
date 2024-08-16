@@ -8,6 +8,8 @@
 <p align="center">IT & Web Dev student exploring freelancing, tech, and digital marketing👩🏻‍💻✨ 
 <p align="center">Fun Facts: Dog Mom, Gamer, Gardener, Traveler</p>
 
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nrenner0211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
 <h3 align="center">I 💖 Networking! Let's Connect:</h3>
@@ -33,22 +35,25 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrenner0211&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="40%" />
+
+![nrenner0211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
+![nrenner0211's Stats](https://github-readme-stats.vercel.app/api?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+
+![nrenner0211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=nightowl&hide_border=true)
   
-  <br>
-  
-  <a href=""> 
-    <img align-"top center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211" alt="mystreak"/>
-  </a>
 </div>
 
 <br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <h3>Thanks for stopping by!</h3>
+
+<br>
   
-![Typing Fast](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM1N3Nrb2tqMnV0ajU5NWhyZ2kwb3UxcWNkc3B4cTZnbHhkNzV5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11BbGyhVmk4iLS/giphy.gif)
+![Typing Fast](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWViMTJibjRqa3luNnZyYTF5ZXRwMWp1Z3V6NThiaTZlaGd3ZXlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif)
 </div>
 
 
