@@ -1,7 +1,7 @@
-![Github-Banner](https://github.com/user-attachments/assets/a837661f-bf58-49d3-8eaa-388a7cb37978)
+![Github-Banner](https://github.com/user-attachments/assets/6bd04430-513f-41a2-888b-086c7634f28b)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">, I'm Niki</h1> 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"> hiii, I'm Niki</h1> 
 
 <h3 align="center">Passionate Developer & Digital Creator</h3>
 
@@ -43,7 +43,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<h2 align="center">I 💖 networking!</h2>
+<h3 align="center">I 💖 networking!</h3>
 <p align="center">
 <p>Want to collaborate on a project or brainstorm together? Text me 📲</p>
 <a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
