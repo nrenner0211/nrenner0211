@@ -5,7 +5,7 @@
 
 <h3 align="center">Passionate Developer & Digital Creator</h3>
 
-<p align="center">IT & Web Dev student exploring freelancing, tech, and digital marketing👩🏻‍💻✨ </p>
+<p align="center">IT & Web Dev student exploring freelancing & technology👩🏻‍💻✨ </p>
 <p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
 <br>
 
