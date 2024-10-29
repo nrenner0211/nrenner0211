@@ -5,6 +5,10 @@
 
 <h3 align="center">Passionate Developer & Digital Creator</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+</p>
+
 <p align="center">IT & Web Dev student exploring freelancing & technology👩🏻‍💻✨ </p>
 <p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
 <br>
@@ -43,14 +47,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<h3 align="center">I 💖 networking!</h3>
-<p align="center">
-<p>Want to collaborate on a project or brainstorm together? Text me 📲</p>
-<a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-<a href="https://wa.me/16814431530" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
-</p>
-
-<h3>Thanks for stopping by!</h3>
+<h3>Thanks for stopping by! 💖</h3>
 
 <br>
   
