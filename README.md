@@ -3,17 +3,17 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"> hiii, I'm Niki</h1> 
 
-<h3 align="center">Passionate Developer & Digital Creator</h3>
+<h3 align="center">Technology & WebDev Enthusiast | Digital Creator</h3>
+
+<p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nrenner0211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 </p>
-
-<p align="center">IT & Web Dev student exploring freelancing & technology👩🏻‍💻✨ </p>
-<p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nrenner0211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
