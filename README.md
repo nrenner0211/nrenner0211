@@ -7,7 +7,7 @@
 
 <p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
 
-
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nrenner0211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 
