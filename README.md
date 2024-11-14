@@ -13,6 +13,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nicolette-renner/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://steamcommunity.com/id/tastipuffs/"><img  alt="Steam" title="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" height="30" align="center" /></a>
 </p>
 
 <div align="center">
