@@ -38,8 +38,6 @@
 ![nrenner0211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ![nrenner0211's Stats](https://github-readme-stats.vercel.app/api?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-
-![nrenner0211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrenner0211&theme=nightowl&hide_border=true)
   
 </div>
 
