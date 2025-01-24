@@ -5,7 +5,7 @@
 
 </br>
 
-<h3 align="center">Technology & WebDev Enthusiast</h3>
+<h3 align="center">IT Consultant & Tech Content Creator👩🏻‍💻</h3>
 
 <p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
 
