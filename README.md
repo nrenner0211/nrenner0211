@@ -7,7 +7,7 @@
 
 <h3 align="center">IT Consultant & Tech Content Creator👩🏻‍💻</h3>
 
-<p align="center">dog mom🐶, gamer🎮, gardener🌸, traveler🚙</p>
+<p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙</p>
 
 </br>
 
