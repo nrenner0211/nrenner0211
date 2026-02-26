@@ -26,13 +26,13 @@
 
 </br>
 
-<div align="center">
+<!-- <div align="center">
   <h3 align="center">Languages and Tools:</h3>
   
   ![nrenner0211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
   ![nrenner0211's Stats](https://github-readme-stats.vercel.app/api?username=nrenner0211&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="9%" />
