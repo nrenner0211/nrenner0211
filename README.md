@@ -5,7 +5,7 @@
 
 </br>
 
-<h3 align="center">IT Consultant & Tech Content Creator👩🏻‍💻</h3>
+<h3 align="center">I am a Computers & IT student, hobby coder, and a Technology & Consumer Electronics Consultant</h3>
 
 <p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙</p>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="9%" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="18%" />
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="18%" /> -->
 </div>
 
 <div align="center">
