@@ -1,13 +1,13 @@
 ![linkedIn-Bannerv2 (2)](https://github.com/user-attachments/assets/2d6ca960-a680-4a67-8487-5696f6d494c5)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hii, I'm Niki<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"></h1> 
+<h1 align="center">Hi, I'm Niki<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"></h1> 
 
 <h2 align="center">I am a Computers & IT - Cybersecurity student and a Technology & Consumer Electronics Consultant.</h2>
 
 </br>
 
-<h3 align="center"> I code for fun and professional development.</h3>
+<h3 align="center">I code for fun and professional development.</h3>
 
 <p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙, continuous learner📖</p>
 
