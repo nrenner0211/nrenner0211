@@ -7,7 +7,7 @@
 
 </br>
 
-<p align="center"> I code for fun and professional development.</p>
+<h3 align="center"> I code for fun and professional development.</h3>
 
 <p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙, continuous learner📖</p>
 
