@@ -28,9 +28,7 @@
 
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
 </div> 
 
 <div align="center">
