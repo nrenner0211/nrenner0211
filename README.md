@@ -3,11 +3,13 @@
 
 <h1 align="center">Hii, I'm Niki<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"></h1> 
 
+<h2 align="center">I am a Computers & IT - Cybersecurity student and a Technology & Consumer Electronics Consultant.</h2>
+
 </br>
 
-<h3 align="center">I am a Computers & IT student, hobby coder, and a Technology & Consumer Electronics Consultant</h3>
+<p align="center"> I code for fun and professional development.</p>
 
-<p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙</p>
+<p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙, continuous learner📖</p>
 
 </br>
 
