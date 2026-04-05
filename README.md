@@ -30,8 +30,14 @@
 
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
-  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrenner0211&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
+  
+  <!-- <img width=360 src="https://github-readme-stats.shion.dev/api?username=nrenner0211&theme=highcontrast" /> -->
+  <img src="https://ghstats.dev/api/langs?username=nrenner0211&layout=bar&theme=tokyonight">
+  <br>
+  <img src="https://ghstats.dev/api/card?username=nrenner0211&theme=tokyonight">
 </div> 
+
+<br>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="9%" />
