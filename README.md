@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi, I'm Niki<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"></h1> 
 
-<h2 align="center">I am a Computers & IT - Cybersecurity student and a Technology & Consumer Electronics Consultant.</h2>
+<h2 align="center">I am a Computer Information Technology / Cybersecurity student and Service Desk Specialist</h2>
 
 </br>
 
 <h3 align="center">I code for fun and professional development.</h3>
 
-<p align="center">dog mom🐶, gamer🎮, tech enthusiast👩🏻‍💻, traveler🚙, continuous learner📖</p>
+<p align="center">dog mom🐶, gamer🎮, techie👩🏻‍💻, traveler🚙, continuous learner📖</p>
 
 </br>
 
@@ -31,7 +31,6 @@
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
   
-  <!-- <img width=360 src="https://github-readme-stats.shion.dev/api?username=nrenner0211&theme=highcontrast" /> -->
   <img src="https://ghstats.dev/api/langs?username=nrenner0211&layout=bar&theme=tokyonight">
   <br>
   <img src="https://ghstats.dev/api/card?username=nrenner0211&theme=tokyonight">
@@ -41,15 +40,12 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="9%" />
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="18%" /> -->
 </div>
 
 <div align="center">
   <img src="https://img.genial.ly/6035bcb66b979e053f5d6fc6/87e5f93d-f314-4fb4-9edd-c977b9c1a690.gif" alt="JavaScript" width="9%" />
   <img src="https://user-images.githubusercontent.com/97989643/220242520-78dd8232-4416-461a-a8f1-6c0b3f5f357f.gif" alt="React" width="20%" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="9%" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="6.5%" />
-  
 </div>
 
 <br>
@@ -63,9 +59,6 @@
   
 ![Typing Fast](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWViMTJibjRqa3luNnZyYTF5ZXRwMWp1Z3V6NThiaTZlaGd3ZXlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif)
 </div>
-
-
-
 
 
 
