@@ -18,8 +18,6 @@
   <li>continuous learner 📖</li>
 </ul>
 
-</br>
-
 <p align="center">
   <h3 align="center">Badges & Links:</h3>
 </p>
